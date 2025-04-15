@@ -1,2 +1,2 @@
 # RXPSTR
- The Rex Repository
+ The Rocky Repository
